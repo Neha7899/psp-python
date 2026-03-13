@@ -1,4 +1,4 @@
-#sample program on how to create a cl;ass,define attributes in it, and objects
+#sample program on how to create a class,define attributes in it, and objects
 
 # class Bank:
 #     bank_name='SBI'
