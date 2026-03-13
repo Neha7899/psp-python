@@ -153,9 +153,10 @@
 #     print("incorrect mail id.login failed.try again")
 
 
-#WAP to check whether the last data of a list is string if yes then check if it is a pallindrome(nayan,malayalam,mom,madam,dad)
+#WAP to check whether the last data of a list is string if yes then check if it is a palindrome(nayan,malayalam,mom,madam,dad)
 # list=eval(input("enter the list:"))
 # if type(list[-1])==str:
+#         print("it's a string") 
 #     if list[-1]==list[-1][::-1]:
 #         print("it's a pallindrome")
 #     else:
